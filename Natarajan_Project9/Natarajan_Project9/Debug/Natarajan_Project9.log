@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  test.cpp
+c:\users\deepa040919\onedrive - metropolitan community college\c++-1532-ww\projects\natarajan_project9\natarajan_project9\test.cpp(88): warning C4101: 'str': unreferenced local variable
+c:\users\deepa040919\onedrive - metropolitan community college\c++-1532-ww\projects\natarajan_project9\natarajan_project9\test.cpp(120): warning C4101: 'str': unreferenced local variable
+  Generating Code...
+  Natarajan_Project9.vcxproj -> C:\Users\Deepa040919\OneDrive - Metropolitan Community College\c++-1532-ww\projects\Natarajan_Project9\Debug\Natarajan_Project9.exe
